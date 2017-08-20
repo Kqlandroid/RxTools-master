@@ -27,7 +27,7 @@ import butterknife.ButterKnife;
 
 public class ActivityMain extends AppCompatActivity {
 
-    //双击返回键 退出
+    //双击返回键退出
     //----------------------------------------------------------------------------------------------
     private static final int TIME_INTERVAL = 2000; // # milliseconds, desired time passed between two back presses.
     @BindView(R.id.recyclerview)
